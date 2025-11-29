@@ -89,17 +89,17 @@ const anastasios = {
 
 ## 📊 GitHub Statistics
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TasosTilsi&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TasosTilsi&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8"/>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TasosTilsi&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TasosTilsi&layout=compact&theme=dark&hide_border=true&langs_count=8"/>
 </p>
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TasosTilsi&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak Stats" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=TasosTilsi&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TasosTilsi&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF" width="100%"/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TasosTilsi&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%"/>
 </p>
 
 </div>
