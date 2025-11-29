@@ -89,17 +89,20 @@ const anastasios = {
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TasosTilsi&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TasosTilsi&layout=compact&theme=dark&hide_border=true&langs_count=8"/>
-</p>
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TasosTilsi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27)](https://github.com/TasosTilsi)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TasosTilsi&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&langs_count=6)](https://github.com/TasosTilsi)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=TasosTilsi&theme=tokyonight&hide_border=true&background=1a1b27)](https://github.com/TasosTilsi)
+
+</div>
+
+### 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=TasosTilsi&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TasosTilsi&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TasosTilsi&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </p>
 
 </div>
