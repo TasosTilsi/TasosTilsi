@@ -121,74 +121,112 @@ const anastasios = {
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
+<div style="border: 2px solid #58A6FF; border-radius: 10px; padding: 20px; background: linear-gradient(135deg, #1a1b27 0%, #24283b 100%);">
 
 ### 🔧 SDK4ED-TD
 **Technical Debt Management Tool**
-- Part of SDK4ED Platform
-- MSc Thesis Project
-- Metrics & Code Quality Analysis
 
-[🔗 View Repository](https://github.com/TasosTilsi/sdk4ed-td)
+🎓 MSc Thesis Project
+📊 Metrics & Code Quality Analysis
+⚙️ Part of SDK4ED Platform
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+
+[![View Repository](https://img.shields.io/badge/View-Repository-58A6FF?style=for-the-badge&logo=github)](https://github.com/TasosTilsi/sdk4ed-td)
+
+</div>
 </td>
-<td width="50%">
+<td width="50%" align="center">
+<div style="border: 2px solid #58A6FF; border-radius: 10px; padding: 20px; background: linear-gradient(135deg, #1a1b27 0%, #24283b 100%);">
 
 ### 📊 ServicedMetricsCalculator
 **Software Metrics Tool**
-- Service Architecture Metrics
-- Performance Analysis
-- Quality Assessment
 
-[🔗 View Repository](https://github.com/TasosTilsi/ServicedMetricsCalculator)
+📐 Service Architecture Metrics
+⚡ Performance Analysis
+✅ Quality Assessment
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Metrics](https://img.shields.io/badge/Metrics-Analysis-blue?style=flat-square)
+
+[![View Repository](https://img.shields.io/badge/View-Repository-58A6FF?style=for-the-badge&logo=github)](https://github.com/TasosTilsi/ServicedMetricsCalculator)
+
+</div>
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
+<div style="border: 2px solid #58A6FF; border-radius: 10px; padding: 20px; background: linear-gradient(135deg, #1a1b27 0%, #24283b 100%);">
 
 ### 🔍 VESM
 **Visualized Environment for Search Methods**
-- Algorithm Visualization
-- Interactive Learning Tool
-- Web & Desktop Versions
 
-[🌐 Live Demo](https://tasostilsi.github.io/VESM/) | [💾 Desktop App](https://github.com/TasosTilsi/VESM-Electron-App/releases)
+🎯 Algorithm Visualization
+🎓 Interactive Learning Tool
+💻 Web & Desktop Versions
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-00D9FF?style=for-the-badge&logo=vercel)](https://tasostilsi.github.io/VESM/)
+[![Desktop App](https://img.shields.io/badge/Desktop-App-9146FF?style=for-the-badge&logo=electron)](https://github.com/TasosTilsi/VESM-Electron-App/releases)
+
+</div>
 </td>
-<td width="50%">
+<td width="50%" align="center">
+<div style="border: 2px solid #58A6FF; border-radius: 10px; padding: 20px; background: linear-gradient(135deg, #1a1b27 0%, #24283b 100%);">
 
 ### 🌐 Portfolio Website
 **Interactive CLI-Style Portfolio**
-- Next.js & TypeScript
-- Terminal Interface
-- Achievement System
 
-[🌐 Visit Portfolio](https://tasostilsi.github.io/)
+⚛️ Next.js & TypeScript
+💻 Terminal Interface
+🏆 Achievement System
 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+[![Visit Portfolio](https://img.shields.io/badge/Visit-Portfolio-FF5722?style=for-the-badge&logo=google-chrome)](https://tasostilsi.github.io/)
+
+</div>
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
+<div style="border: 2px solid #58A6FF; border-radius: 10px; padding: 20px; background: linear-gradient(135deg, #1a1b27 0%, #24283b 100%);">
 
 ### 🚗 Avoid Traffic Extended
 **Route Optimization Application**
-- Traffic Avoidance
-- Smart Route Planning
 
-[🔗 View Repository](https://github.com/TasosTilsi/AvoidTrafficExtended)
+🗺️ Traffic Avoidance
+🎯 Smart Route Planning
+📱 Mobile Application
 
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+
+[![View Repository](https://img.shields.io/badge/View-Repository-58A6FF?style=for-the-badge&logo=github)](https://github.com/TasosTilsi/AvoidTrafficExtended)
+
+</div>
 </td>
-<td width="50%">
+<td width="50%" align="center">
+<div style="border: 2px solid #58A6FF; border-radius: 10px; padding: 20px; background: linear-gradient(135deg, #1a1b27 0%, #24283b 100%);">
 
 ### 📱 Android Apps
 **Published on Google Play**
-- The Petbook
-- Landhaus
-- Calbari
 
-[🔗 View More Projects](https://github.com/TasosTilsi?tab=repositories)
+🐾 The Petbook
+🏠 Landhaus
+📋 Calbari
 
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Play Store](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)
+
+[![View More Projects](https://img.shields.io/badge/View_More-Projects-58A6FF?style=for-the-badge&logo=github)](https://github.com/TasosTilsi?tab=repositories)
+
+</div>
 </td>
 </tr>
 </table>
