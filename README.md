@@ -89,20 +89,26 @@ const anastasios = {
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TasosTilsi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27)](https://github.com/TasosTilsi)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TasosTilsi&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&langs_count=6)](https://github.com/TasosTilsi)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=TasosTilsi&theme=tokyonight&hide_border=true&background=1a1b27)](https://github.com/TasosTilsi)
-
-</div>
-
-### 📈 Contribution Activity
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TasosTilsi&theme=tokyonight" alt="Profile Details"/>
+</p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TasosTilsi&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TasosTilsi&theme=tokyonight" alt="Repos Per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TasosTilsi&theme=tokyonight" alt="Most Commit Language"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TasosTilsi&theme=tokyonight" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TasosTilsi&theme=tokyonight" alt="Productive Time"/>
+</p>
+
+### 📈 Quick Stats
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/TasosTilsi?label=Followers&style=for-the-badge&logo=github&color=blue" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/TasosTilsi?label=Total%20Stars&style=for-the-badge&logo=github&color=yellow" alt="Total Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=TasosTilsi&label=Profile+Views&color=brightgreen&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 </div>
